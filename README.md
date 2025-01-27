@@ -119,6 +119,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For any inquiries or support, please reach out via the [GitHub Issues](https://github.com/your-username/Ticket_sale/issues) section.
 
 ---
-
+Also you can check the blogpost about it : https://medium.com/@can.aydogan.2004/revolutionizing-online-ticket-sales-bridging-gaps-with-efficient-systems-84157334e2b4
 Thank you for using the **Online Ticket Sales System**! Happy coding! 🎟️
 
